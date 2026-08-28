@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6f4b5d"/><stop offset="1" stop-color="#c59c88"/></linearGradient></defs>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4b3023"/><stop offset=".55" stop-color="#6f4934"/><stop offset="1" stop-color="#b68562"/></linearGradient></defs>
   <rect width="512" height="512" rx="120" fill="url(#g)"/>
-  <circle cx="256" cy="256" r="172" fill="none" stroke="#fff" stroke-opacity=".28" stroke-width="3"/>
-  <path d="M256 365C222 332 150 282 150 218c0-43 31-73 70-73 24 0 42 12 56 31 14-19 32-31 56-31 39 0 70 30 70 73 0 64-72 114-146 147Z" fill="#fff"/>
-  <text x="256" y="247" text-anchor="middle" fill="#6f4b5d" font-family="Georgia,serif" font-size="56" font-weight="700">J&amp;L</text>
+  <circle cx="256" cy="256" r="174" fill="none" stroke="#f7eadb" stroke-opacity=".35" stroke-width="4"/>
+  <circle cx="256" cy="256" r="155" fill="none" stroke="#f7eadb" stroke-opacity=".12" stroke-width="2"/>
+  <text x="256" y="282" text-anchor="middle" fill="#fff8ef" font-family="Georgia,serif" font-size="112" font-weight="500" letter-spacing="-9">J&amp;L</text>
+  <text x="256" y="338" text-anchor="middle" fill="#ead6c0" font-family="Arial,sans-serif" font-size="20" letter-spacing="5">JOSI • LUIS</text>
 </svg>
