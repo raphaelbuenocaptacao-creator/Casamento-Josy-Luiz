@@ -1,12 +1,12 @@
 {
-  "name": "Nosso Sim — Josy & Luiz",
-  "short_name": "Nosso Sim",
-  "description": "Planejamento do casamento de Josy e Luiz",
+  "name": "J&L — Josi & Luis",
+  "short_name": "J&L",
+  "description": "Planejamento do casamento de Josi e Luis",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#fbf7f3",
-  "theme_color": "#6f4b5d",
+  "background_color": "#fbf7f1",
+  "theme_color": "#5b3a29",
   "orientation": "portrait-primary",
   "icons": [
     {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
